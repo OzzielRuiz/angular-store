@@ -1,0 +1,39 @@
+
+:host {
+    margin: 2px;
+ border: 2px solid black;   border-radius: 5px;
+ display: block;
+}
+h3 {
+    font-size: 3rem;
+    font-family: monospace;
+    
+}
+
+strong{
+    color: gray;
+    font-size: 2.5rem;
+}
+
+img {
+    max-width: 100%;
+    margin:0 auto;
+}
+
+figure {
+    border: 1px solid black;
+}
+
+button{
+    border-radius: 5px;
+    width: 80%;
+    padding: 1rem;
+    text-align: center;
+    background-color:darkcyan;
+    display: block;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+}
+
+
